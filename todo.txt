@@ -1,0 +1,5 @@
+TODO:
+*autoupdater
+*log ips and predict users ip ranges based on that
+*using mysql 
+*add custom bans with timer, when banned tries to login show him info like: You are banned for next 10 hours.
